@@ -1,0 +1,2 @@
+
+**No elimine esta carpeta, es donde se guardan las imagenes en cada interaccion!!!**
