@@ -1,4 +1,4 @@
-# Crear-NFT-
+# Crear-NFT
 Script Python para crear mis NFT basados en Conway's Game of Life.
 Este script es una variacion de: [GitHub Pages] (https://github.com/jjo9/conway-s-game-of-life-python)
 
